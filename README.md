@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - [LinkedIn](https://www.linkedin.com/in/alexander-voloshenko-0769873a/)
 - [Blog](https://r11baka.github.io/)
 - [Medium](https://medium.com/@r11baka)
+- [hashnode] (https://r11baka.hashnode.dev/)
 
 
 ### Certifications 📜
