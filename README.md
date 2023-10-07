@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 #### I'm a Backend Developer 
 
 - I use daily: `.php`, `.js`
-- Work with `aws`
+- Work with `aws`,`appsync`, `graphql`
 
 ### 📫 How to reach me?
 - [LinkedIn](https://www.linkedin.com/in/alexander-voloshenko-0769873a/)
