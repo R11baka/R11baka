@@ -1,11 +1,16 @@
-### Hi
+### Hi,I am Alex
 
 <!--
 **R11baka/R11baka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-#### I'm a Backend Developer 
+I am a backend developer from Ukraine. Now I am working a lot with Typescript, AWS Lambda, Graphql, AppSync.
+Also, I have experience with PHP, Laravel.
+Here is some examples of my repository
+
+- https://packagist.org/packages/r11baka/deepai
+- https://github.com/R11baka/deepai fun with GoLang
 
 - I use daily: `.php`, `.js`
 - Work with `aws`,`appsync`, `graphql`
