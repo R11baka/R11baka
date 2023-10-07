@@ -7,13 +7,16 @@ Here are some ideas to get you started:
 -->
 I am a backend developer from Ukraine. Now I am working a lot with Typescript, AWS Lambda, Graphql, AppSync.
 Also, I have experience with PHP, Laravel.
-Here is some examples of my repository
+- I use daily: `.php`, `.js`
+- Work with `aws`,`appsync`, `graphql`
+
+## Here are some examples of my repository
 
 - https://packagist.org/packages/r11baka/deepai
 - https://github.com/R11baka/deepai fun with GoLang
+## Some my articles
+- https://r11baka.hashnode.dev/how-to-connect-appsync-and-lambda
 
-- I use daily: `.php`, `.js`
-- Work with `aws`,`appsync`, `graphql`
 
 ### 📫 How to reach me?
 - [LinkedIn](https://www.linkedin.com/in/alexander-voloshenko-0769873a/)
