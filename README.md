@@ -14,7 +14,7 @@ Also, I have experience with PHP, Laravel.
 
 - https://packagist.org/packages/r11baka/deepai
 - https://github.com/R11baka/deepai fun with GoLang
-## Some my articles
+## Some of my articles
 - https://r11baka.hashnode.dev/how-to-connect-appsync-and-lambda
 
 
