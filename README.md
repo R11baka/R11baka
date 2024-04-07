@@ -15,15 +15,16 @@ Also, I have experience with PHP, Laravel.
 - https://packagist.org/packages/r11baka/deepai
 - https://github.com/R11baka/deepai fun with GoLang
 - https://github.com/R11baka/aws-appsync-graphql-template easy template to start working with appsync and lambda
+  
 ## Some of my articles
 - https://r11baka.hashnode.dev/how-to-connect-appsync-and-lambda - How use grapqgl and appsync in AWS env
 
 
 ### 📫 How to reach me?
-- [LinkedIn](https://www.linkedin.com/in/alexander-voloshenko-0769873a/)
+- [LinkedIn](https://www.linkedin.com/in/alexander-voloshenko/)
+- [hashnode](https://r11baka.hashnode.dev/)
 - [Blog](https://r11baka.github.io/)
 - [Medium](https://medium.com/@r11baka)
-- [hashnode](https://r11baka.hashnode.dev/)
 
 
 ### Certifications 📜
