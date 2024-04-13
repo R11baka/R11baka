@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-I am a backend developer from Ukraine. Now I am working a lot with Typescript, AWS Lambda, Graphql, AppSync.
+I am a backend developer. Now I am working a lot with Typescript, AWS Lambda, Graphql, AppSync.
 Also, I have experience with PHP, Laravel.
 - I use daily: `.php`, `.js`
 - Work daily with `aws`,`appsync`, `graphql`
