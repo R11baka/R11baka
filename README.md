@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 I am a backend developer from Ukraine. Now I am working a lot with Typescript, AWS Lambda, Graphql, AppSync.
 Also, I have experience with PHP, Laravel.
 - I use daily: `.php`, `.js`
-- Work with `aws`,`appsync`, `graphql`
+- Work daily with `aws`,`appsync`, `graphql`
 
 ## Here are some examples of my repository
 
@@ -24,7 +24,6 @@ Also, I have experience with PHP, Laravel.
 - [LinkedIn](https://www.linkedin.com/in/alexander-voloshenko/)
 - [hashnode](https://r11baka.hashnode.dev/)
 - [Blog](https://r11baka.github.io/)
-- [Medium](https://medium.com/@r11baka)
 
 
 ### Certifications 📜
