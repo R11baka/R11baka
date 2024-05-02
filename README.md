@@ -15,6 +15,7 @@ Also, I have experience with PHP, Laravel, AWS stack
 - https://packagist.org/packages/r11baka/deepai
 - https://github.com/R11baka/deepai fun with GoLang
 - https://github.com/R11baka/aws-appsync-graphql-template easy template to start working with appsync and lambda
+- https://github.com/R11baka/rust-lambda-template rust template for AWS Lambda
   
 ## Some of my articles
 - https://r11baka.hashnode.dev/how-to-connect-appsync-and-lambda - How use graphql and appsync in AWS env
