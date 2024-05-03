@@ -12,11 +12,11 @@ Also, I have experience with PHP, Laravel, AWS stack
 
 ## Here are some examples of my repository
 
-- https://packagist.org/packages/r11baka/deepai Simple php client for deepai api
-- https://github.com/R11baka/Omdb/ PHP package wrapper for OMDB
-- https://github.com/R11baka/deepai the same deepai client in Golang
-- https://github.com/R11baka/aws-appsync-graphql-template easy template to start working with appsync and lambda
-- https://github.com/R11baka/rust-lambda-template rust template for AWS Lambda
+- https://packagist.org/packages/r11baka/deepai [PHP] Simple php client for deepai api
+- https://github.com/R11baka/Omdb/ [PHP] PHP package wrapper for OMDB
+- https://github.com/R11baka/deepai [Golanf] the same deepai client in Golang
+- https://github.com/R11baka/aws-appsync-graphql-template [Typescript] easy template to start working with appsync and lambda
+- https://github.com/R11baka/rust-lambda-template [Rust] rust template for AWS Lambda
   
 ## Some of my articles
 - https://r11baka.hashnode.dev/how-to-connect-appsync-and-lambda - How use graphql and appsync in AWS env
