@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-I am a backend developer. Now I am working a lot with Typescript, AWS Lambda, Graphql, AppSync.
-Also, I have experience with PHP, Laravel, AWS stack
+I am Senior Backend Engineer with more than 10 years of experience in backend development with PHP and NodeJs. For last 7 years, I worked in product in social media domain and AWS Cloud. My experience lies in building REST API, and GraphQL using PHP or NodeJs. Certified in AWS Developer and Solutions Architect Associate, I have a strong background in backend development, including microservices architecture and CI/CD implementation
 - I use daily: `php`, `js` , `typescript`
 - Work daily with `aws`,`appsync`, `graphql`
 
