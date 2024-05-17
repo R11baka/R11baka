@@ -11,11 +11,18 @@ I am Senior Backend Engineer with more than 10 years of experience in backend de
 
 ## Here are some examples of my repository
 
-- https://packagist.org/packages/r11baka/deepai [PHP] Simple php client for deepai api
+PHP
+- https://packagist.org/packages/r11baka/deepai [PHP] Simple php client for deepai API
 - https://github.com/R11baka/Omdb/ [PHP] PHP package wrapper for OMDB
-- https://github.com/R11baka/deepai [Golang] the same deepai client in Golang
+
+Typescript
 - https://github.com/R11baka/aws-appsync-graphql-template [Typescript] easy template to start working with appsync and lambda
+
+Rust and AWS Lambda boilerplate
 - https://github.com/R11baka/rust-lambda-template [Rust] rust template for AWS Lambda
+
+Golang
+- https://github.com/R11baka/deepai [Golang] the same deepai client in Golang
   
 ## Some of my articles
 - https://r11baka.hashnode.dev/how-to-connect-appsync-and-lambda - How use graphql and appsync in AWS env
