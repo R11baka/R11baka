@@ -12,8 +12,8 @@ I am Senior Backend Engineer with more than 10 years of experience in backend de
 ## Here are some examples of my repository
 
 PHP
-- https://packagist.org/packages/r11baka/deepai [PHP] Simple php client for deepai API
 - https://github.com/R11baka/Omdb/ [PHP] PHP package wrapper for OMDB
+- https://packagist.org/packages/r11baka/deepai [PHP] Simple php client for deepai API
 
 Typescript
 - https://github.com/R11baka/aws-appsync-graphql-template [Typescript] easy template to start working with appsync and lambda
