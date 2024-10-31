@@ -16,14 +16,14 @@ PHP
 - https://github.com/R11baka/Omdb/ [PHP] PHP package wrapper for OMDB
 - https://packagist.org/packages/r11baka/deepai [PHP] Simple php client for deepai API
 
-Typescript
+**Typescript**
 - https://github.com/R11baka/aws-appsync-graphql-template [Typescript] easy template to start working with appsync and lambda
 - https://www.npmjs.com/package/telegraf-dynamodb-session NPM package for telegraf bot session
 
-Rust and AWS Lambda boilerplate
+**Rust** and **AWS Lambda** boilerplate
 - https://github.com/R11baka/rust-lambda-template [Rust] rust template for AWS Lambda
 
-Golang
+**Golang**
 - https://github.com/R11baka/deepai [Golang] the same deepai client in Golang
   
 ## Some of my articles
